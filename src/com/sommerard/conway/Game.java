@@ -1,4 +1,4 @@
-package com.sommerard;
+package com.sommerard.conway;
 
 import java.util.Random;
 

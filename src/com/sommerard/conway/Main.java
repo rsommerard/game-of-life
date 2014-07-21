@@ -1,4 +1,4 @@
-package com.sommerard;
+package com.sommerard.conway;
 
 import org.newdawn.slick.AppGameContainer;
 import org.newdawn.slick.SlickException;
